@@ -1,0 +1,1 @@
+This is a simple project to present basic HTML skills using ordered and unordered lists.
